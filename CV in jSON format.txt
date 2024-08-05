@@ -1,0 +1,76 @@
+{
+  "name": "Mohammed Aasif",
+  "contact": {
+    "linkedin": "www.linkedin.com/in/mohammed-aasif04",
+    "email": "mohammedaasif8341@gmail.com",
+    "github": "github.com/mdaasif",
+    "phone": "+91-8341676223"
+  },
+  "skills": {
+    "languages": ["C++", "Java", "Python"],
+    "frameworks": ["HTML", "CSS"],
+    "tools_platforms": ["MySQL", "Tableau"],
+    "softskills": ["Problem-Solving Skills", "Team Player", "Project Management", "Adaptability"]
+  },
+  "summer_training": [
+    {
+      "organization": "GeeksForGeeks",
+      "duration": "June 2023 – July 2023",
+      "role": "Data Science trainee",
+      "responsibilities": [
+        "Detected and tracked bugs and inconsistencies in the field of Data Analysis",
+        "Performed automated and manual tests to ensure the software created by developers is up to date and working seamlessly.",
+        "Gained hands-on experience in developing, implementing, and maintaining the projects based on python, data analysis, DBMS and Machine Learning applications."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sentimental Analysis",
+      "date": "Sept 2023",
+      "description": "Developed Sentimental Analysis project focusing on Exploratory Data Analysis (EDA) in Python. Utilized Python for programming, emphasizing efficient data handling and visualization using various machine learning algorithms."
+    },
+    {
+      "name": "Billing Management System",
+      "date": "Oct 2022",
+      "description": "Leveraged Python's extensive libraries to streamline operations and enhance efficiency. Incorporated features for token management, discounts, and order number, ensuring a seamless dining experience."
+    },
+    {
+      "name": "Blood Bank Website",
+      "date": "June 2022",
+      "description": "Designed and developed a blood bank website using HTML, JavaScript, and CSS. Employed modern web design principles for a visually appealing and user-friendly interface."
+    }
+  ],
+  "achievements": [
+    "5 Star Rating in Python on HackerRank.",
+    "4 Star Rating in Java on HackerRank"
+  ],
+  "certificates": [
+    "DataScience course from GeeksForGeeks",
+    "C, C++, python, DBMS from ISSO Certified Associate"
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "location": "Punjab, India",
+      "degree": "Bachelor of Technology – Computer Science and Engineering with a major in AI and ML",
+      "CGPA": "8.16",
+      "since": "August 2021"
+    },
+    {
+      "institution": "Timpany School",
+      "location": "Vizag, AP",
+      "degree": "Intermediate",
+      "percentage": "95%",
+      "duration": "April 2019 – March 2021"
+    },
+    {
+      "institution": "ETASI Timpany School",
+      "location": "Vizag, AP",
+      "degree": "Matriculation",
+      "percentage": "90%",
+      "date": "March 2019"
+    }
+  ]
+}
+``` &#8203;:citation[oaicite:0]{index=0}&#8203;
